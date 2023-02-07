@@ -1,0 +1,46 @@
+{
+  "customers": [
+    {
+      "id": 8
+    },
+    {
+      "firstName": "שלוימי",
+      "lastName": "רקובסקי",
+      "phone": "0527108425",
+      "email": "sr0527108425@gmail.com",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Miri",
+      "email": "miri@gmail.com",
+      "password": "316304385"
+    },
+    {
+      "id": 2,
+      "name": "Eti",
+      "email": "Eti@gmail.com",
+      "password": "228300521"
+    },
+    {
+      "email": "ayala@gmail.conm",
+      "password": "233246941",
+      "name": "ayala",
+      "id": 3
+    },
+    {
+      "email": "sr0527108425@gmail.com",
+      "password": "315773838",
+      "name": "slomi",
+      "id": 4
+    },
+    {
+      "email": "408101y@gmail.com",
+      "password": "123456789",
+      "name": "lea",
+      "id": 5
+    }
+  ]
+}
